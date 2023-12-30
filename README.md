@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anamol Raj Singh</h1>
+<h1 align="center">Hi, I'm Anamol Raj Singh</h1>
 <h3 align="center">I am a student and learner.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anamaolrajsingh&label=Profile%20views&color=0e75b6&style=flat" alt="anamaolrajsingh" /> </p>
